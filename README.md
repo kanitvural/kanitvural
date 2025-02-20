@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-🚀 AI Developer passionate about **AI Agent Development, Computer Vision,Tabular Data Prediction** and **MLOps**    
+🚀 AI Developer passionate about **AI Agent Development, Computer Vision, Tabular Data Prediction** and **MLOps**    
 🛠️ Building **scalable, modular, and efficient** AI-driven solutions  
 ☁️ Certified **AWS Cloud Practitioner** & **AWS Cloud Engineer Bootcamp Graduate**   
 📊 Currently enhancing my expertise in **Data Engineering**  
