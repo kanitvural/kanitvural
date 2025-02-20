@@ -16,4 +16,5 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kanitvural&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com?user=kanitvural&theme=dark&hide_border=true)
+
