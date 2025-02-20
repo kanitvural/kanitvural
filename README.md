@@ -16,7 +16,8 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.vercel.app/?user=kanitvural&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=kanitvural&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
 
 
 
