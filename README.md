@@ -7,8 +7,10 @@
 ☁️ Certified **AWS Cloud Practitioner** & **AWS Cloud Engineer Bootcamp Graduate**   
 📊 Currently enhancing my expertise in **Data Engineering**  
 
-# 🌐 Socials:
 [![Website](https://img.shields.io/badge/Website-kanitvural.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kanitvural.com)
+
+# 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanitvural)[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kanitvural)[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanitvural@gmail.com)[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/iskorpittt)
 
 # 💻 Tech Stack:
