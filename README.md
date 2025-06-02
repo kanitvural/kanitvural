@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 💫 About Me:
 
 🚀 Machine Learning Developer passionate about **AI Agent Development, Computer Vision, Tabular Data Prediction**, **MLOps**, **DataOps**   
