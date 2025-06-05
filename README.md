@@ -2,7 +2,7 @@
 
 🚀 Machine Learning Developer passionate about **AI Agent Development, Computer Vision, Tabular Data Prediction**, **MLOps**, **DataOps**   
 🛠️ Building **scalable, modular, and efficient** AI-driven solutions  
-☁️ 3x AWS Certified (**Machine Learning Specialty** & **AWS Solutions Architect - Associate** & **AWS Cloud Practitioner**)
+☁️ 3x AWS Certified (**Machine Learning - Specialty** & **AWS Solutions Architect - Associate** & **AWS Cloud Practitioner**)
 
 [![Website](https://img.shields.io/badge/Website-kanitvural.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kanitvural.com)
 
