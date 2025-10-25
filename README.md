@@ -9,9 +9,3 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanitvural)[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/iskorpittt)[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kanitvural)[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanitvural@gmail.com)
-
-
-<a href="https://github.com/sponsors/kanitvural">
-  <img src="https://img.shields.io/badge/Sponsor-💖-ea4aaa?style=flat&logo=github-sponsors" />
-</a>
-
