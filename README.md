@@ -6,12 +6,7 @@
 
 🏭 Bridging **15 years of complex engineering experience** with cutting-edge AI to deliver highly scalable, secure, and modular enterprise solutions
 
-☁️ **5x AWS Certified:**
-
-  -🏆 [PRO] Generative AI - Professional
-  -🏆 [PRO] Machine Learning - Specialty
-  -🏅 [ASSOC] Data Engineer & Solutions Architect
-  -🏅 [FOUND] Cloud Practitioner
+☁️ 5x AWS Certified (**Generative AI Developer - Professional** & **Machine Learning - Specialty** & **AWS Data Engineer - Associate** & **AWS Solutions Architect - Associate** & **AWS Cloud Practitioner**)
 
 [![Website](https://img.shields.io/badge/Website-kanitvural.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kanitvural.com)
 
