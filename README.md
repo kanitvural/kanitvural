@@ -1,8 +1,11 @@
 ## 💫 About Me:
 
 🚀 **Enterprise GenAI Architect & ML Engineer** specializing in **Multi-Agent Systems, LLM Orchestration**, and **Serverless AI**
+
 🧠 Building autonomous, defense-grade AI workflows using **Amazon Bedrock, AWS Strands, and OpenAI Agents SDK**
+
 🏭 Bridging **15 years of complex engineering experience** with cutting-edge AI to deliver highly scalable, secure, and modular enterprise solutions
+
 ☁️ **5x AWS Certified:**
   🏆 [PRO] Generative AI - Professional
   🏆 [PRO] Machine Learning - Specialty
