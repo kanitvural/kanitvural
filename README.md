@@ -11,7 +11,7 @@
 [![Website](https://img.shields.io/badge/Website-kanitvural.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kanitvural.com)
 
 ## 🛠️ Tech Stack & Expertise:
-* **GenAI & LLMs:** Amazon Bedrock (Nova, Claude), OpenAI Agents SDK, RAG, Hybrid Search (OpenSearch)
+* **GenAI & LLMs:** Amazon Bedrock (Nova, Claude), AWS Strands (Strands Agents), OpenAI Agents SDK, RAG, Hybrid Search (OpenSearch)
 * **Architecture:** Multi-Agent Orchestration, Event-Driven Microservices, VPC Security, JWT Gating
 * **Cloud & DevOps:** AWS CDK (IaC), Serverless (Lambda, DynamoDB), CodePipeline, MLOps
 
